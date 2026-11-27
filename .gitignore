@@ -1,0 +1,12 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Generated files
+node_modules/
+dist/
+build/
+*.log
+__pycache__/
